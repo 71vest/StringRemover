@@ -44,7 +44,7 @@ __   _____  ___| |_
                     
             {this.colors['reset']}"""), flush=True)
         
-        print(Center.XCenter(f"created by vest, made for xkasti"), flush=True)
+        print(Center.XCenter(f"created by vest, made to litter the gh profile"), flush=True)
         print(Center.XCenter(f"https://neptun.wtf/"), flush=True)
 
 class vest:
